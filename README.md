@@ -1,3 +1,8 @@
+# Ubuntu 16.04 Makina hazırlayın.
+Aşağıdaki komutu çalıştırın.
+~~~
+wget -qO- https://ubuntu.bigbluebutton.org/bbb-install.sh | bash -s -- -v xenial-220 -a
+~~~
 
 ![bbb-install.sh](images/bbb-install.png?raw=true "bbb-install.sh")
 
